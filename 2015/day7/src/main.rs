@@ -177,7 +177,7 @@ fn main() {
 
     println!("Parsing lines...");
 
-    for line in content.split('\n') {
+    for line in content.lines() {
         if let Some(dependency) = parse(line) {
             bindings.bindings.insert(dependency.id, dependency.op);
         }
