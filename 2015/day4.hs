@@ -1,3 +1,5 @@
+-- Solution for https://adventofcode.com/2015/day/4
+
 import Data.List
 import Data.Hash.MD5
 

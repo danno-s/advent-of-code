@@ -1,3 +1,5 @@
+-- Solution for https://adventofcode.com/2015/day/5
+
 import Data.List
 
 niceString :: String -> Bool

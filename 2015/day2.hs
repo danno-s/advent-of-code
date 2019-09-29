@@ -1,3 +1,4 @@
+-- Solution for https://adventofcode.com/2015/day/2
 split :: String -> Char -> [String]
 split [] delim = [""]
 split (c:cs) delim 

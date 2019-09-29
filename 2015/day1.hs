@@ -1,3 +1,4 @@
+-- Solution for https://adventofcode.com/2015/day/1
 neededFloor :: [Char] -> Int
 neededFloor parentheses = 
     sum [ 

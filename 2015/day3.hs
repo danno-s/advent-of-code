@@ -1,3 +1,5 @@
+-- Solution for https://adventofcode.com/2015/day/3
+
 {-# LANGUAGE LambdaCase #-}
 
 import qualified Data.Map.Strict as M
